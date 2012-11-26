@@ -1,0 +1,18 @@
+*{
+    -moz-user-select: -moz-none;
+    -webkit-user-select: none;
+    -o-user-select: -moz-none;
+    user-select: none;
+    margin:0;
+    padding:0;
+    cursor:default;
+}
+body{
+    width:100%;
+    height:100%;
+    overflow:hidden;
+    background: #f1f1f1;
+}
+#canvas{
+    background:#fff;
+}
